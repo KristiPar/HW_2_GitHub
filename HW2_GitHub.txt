@@ -49,6 +49,7 @@ JSON
  19. Сделать Commit changes (сохранить) изменения на веб интерфейсе : press commit changes
  20. Синхронизировать внешний и локальный репозиторий JSON : git pull
                                                              git fetch (check)
+
 XML
  21. Создать внешний репозиторий c названием XML : go to GitHub
                                                    new repository
